@@ -7,5 +7,5 @@
 
 
 
-![](.\image\lecture_name.PNG)
+![image](.\image\lecture_name.PNG)
 

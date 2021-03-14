@@ -7,5 +7,5 @@
 
 
 
-![image](.\image\lecture_name.PNG)
+<center><img src="./image/lecture_name.PNG"></center>
 

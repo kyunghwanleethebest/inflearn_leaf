@@ -20,3 +20,7 @@
 
 그리고 직접 코딩 해보는 게  중요하다고 생각해서, 배운 내용을 단순히 영상만 보는 것이 아니고 직접 코드를 올려보는 계획을 갖고 있다.  
 
+
+
+[모두를 위한 파이썬 : 필수 문법 배우기 Feat. 오픈소스 패키지 배포 (Inflearn Original]: https://www.inflearn.com/course/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A4%91%EA%B3%A0%EA%B8%89/dashboard
+
